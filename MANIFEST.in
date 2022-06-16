@@ -1,3 +1,0 @@
-include *.rst LICENSE
-include romkan.json
-include tests/*
