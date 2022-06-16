@@ -1,6 +1,9 @@
 [tool.poetry]
 name = "python-romkan-ng"
 version = "0.3.0"
+packages = [
+	{ include = "romkan" }
+]
 description = "A Romaji/Kana conversion library"
 authors = [
     "Augustin Cisterne-Kaas <ajitekun@gmail.com>",
